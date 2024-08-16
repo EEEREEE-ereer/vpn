@@ -8,7 +8,7 @@ Share-SSR-V2ray软件：     https://github.com/selierlin/Share-SSR-V2ray/blob/m
 #
 clash中文软件 ：              https://clashcn.com/clash-for-windows
 #
-Project V 项目官网：     https://www.v2ray.com/
+Project V v2ray 项目官网：     https://www.v2ray.com/
 #
 Shadowsocks软件:      https://shadowsocks5.github.io/en/download/clients.html 
 #
