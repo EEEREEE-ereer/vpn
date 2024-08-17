@@ -1,5 +1,6 @@
 # Tools  - Summary 
  ## 容易访问
+  * Browser search: intitle Free Proxies intext
   * https://bianyuan.xyz/
   * https://proxypool.neocities.org/ [point-all--免费翻墙神器，支持电脑和手机!]
   * https://proxypoolsstest.herokuapp.com/
@@ -33,7 +34,7 @@
   * https://sansui233/proxyol
   * https://tro.zqwnan.tk
   * https://turinglabs
-  * 
+  * https://pool-840979.asia1.kinto.io
   * 
 ## doc:
  * https://ld246.com/article/1615794895848
@@ -45,6 +46,7 @@
  * https://mailberry.com.cn/2022/04/use-google-free-clash-proxies/
  * https://readthedocs.org/projects/proxy-pool/
  * https://www.ahhhhfs.com/19188/
+ * https://giters.com/fdmove/Free-Proxies#%E8%8A%82%E7%82%B9%E7%88%AC%E8%99%AB%E9%A1%B9%E7%9B%AE%E4%BB%A3%E7%90%86%E6%B1%A0
 
 ## Cloud - sever：
 https://www.heroku.com/home
