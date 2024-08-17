@@ -17,11 +17,11 @@
 6. If you have any other questions, you can add your contact information：
    * 1 YouTube：@用户-iu5re2wo6v || @buliangli
    * 2 Skype：https://join.skype.com/invite/rMADs8G8wJSa
-   * 3 Tik Tok ：https://www.tiktok.com/@ethanolunar?is_from_webapp=1&sender_device=pc
+   * 3 Tik Tok ：https://www.tiktok.com/@ethanolunar?is_from_webapp=1&sender_device=pc [@ethanolunar]
      
      ![image](https://github.com/user-attachments/assets/c3f23a48-46db-4e30-b4e0-61bb50561897)
 
-   * 4.Domestic Douyin：
+   * 4.Domestic Douyin：Douyin account:272665238
      
      * ![image](https://github.com/user-attachments/assets/a0575059-1bbb-44a5-9b90-497f85da6b63)
 
