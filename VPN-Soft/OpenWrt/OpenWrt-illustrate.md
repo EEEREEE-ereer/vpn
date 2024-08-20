@@ -1,5 +1,5 @@
 # OpenWrt-illustrate ：
-## OpenWrt官网: https://openwrt.org/start
+## OpenWrt&emsp;官网&emsp;&emsp;&emsp;&emsp;: https://openwrt.org/start
 
  #### 配置 OpenWrt shadowsocks 路由器智能自动翻墙
   * https://fanqiang.software-download.name/ebook/03.5.html#%E9%85%8D%E7%BD%AE-openwrt-shadowsocks-%E8%B7%AF%E7%94%B1%E5%99%A8%E6%99%BA%E8%83%BD%E8%87%AA%E5%8A%A8%E7%BF%BB%E5%A2%99
