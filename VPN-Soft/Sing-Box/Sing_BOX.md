@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/83b8cd36-d244-49b4-8ee7-c0270ab3b7ef)# Sing_BOX：
+# Sing_BOX：
 ## sing-box Windows 客户端 : https://singbox.win/sing-box-windows-gui-for-singbox-v1-8-1
 
    > ![image](https://github.com/user-attachments/assets/aa82e220-d2bf-4763-bafa-85d8b426eb0a)
