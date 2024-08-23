@@ -21,3 +21,8 @@
 ## GitHub 仓库导航 : https://sing-box.org/sing-box-official/
 
   > ![image](https://github.com/user-attachments/assets/109a68bc-0f3b-4d67-bf20-ac39705bfe9a)
+
+## Sing-Box===全平台通用代理软件 : https://getsingbox.com/version-1-9-3/
+
+  > ![image](https://github.com/user-attachments/assets/aed501f5-6b6e-4600-ade6-08b8baa9fb86)
+
