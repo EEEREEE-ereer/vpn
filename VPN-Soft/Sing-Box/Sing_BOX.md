@@ -2,6 +2,11 @@
 ## sing-box Windows 客户端 : https://singbox.win/sing-box-windows-gui-for-singbox-v1-8-1
 
    > ![image](https://github.com/user-attachments/assets/aa82e220-d2bf-4763-bafa-85d8b426eb0a)
+
+## GUI.for.SingBox-windows ：https://github.com/GUI-for-Cores/GUI.for.SingBox
+
+   > ![image](https://github.com/user-attachments/assets/4e63d4b3-b84b-4181-ac20-b2127b4222ea)
+
    
 ## SagerNet： https://github.com/SagerNet/sing-box/releases/tag/v1.9.4
 
