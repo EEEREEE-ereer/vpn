@@ -10,8 +10,8 @@
 
 # Other :
  * #### WARP Application：
-     * ### one ==> https://developers.cloudflare.com/warp-client/get-started/windows/
+     * ### one : https://developers.cloudflare.com/warp-client/get-started/windows/
          > ![image](https://github.com/user-attachments/assets/1500b738-e5b1-4bbd-9cf7-d52cf81fd106)
          
-    * ### Two ===> cloudflare-docs https://github.com/cloudflare/cloudflare-docs
+    * ### Two : cloudflare-docs https://github.com/cloudflare/cloudflare-docs
         > ![image](https://github.com/user-attachments/assets/6811dd93-b780-4771-97bd-58e1722dce79)
