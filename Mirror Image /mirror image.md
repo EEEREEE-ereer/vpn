@@ -35,6 +35,7 @@
 #### cnblogs ： https://www.cnblogs.com/wubolive/p/17317586.html
 #### linux有哪些镜像站 ： https://worktile.com/kb/ask/35727.html
 #### 超全的国外镜像（转载，侵删） https://www.bilibili.com/read/cv19753320/
+#### LinuxMirrors ：https://linuxmirrors.cn/mirrors/
 
 
 
