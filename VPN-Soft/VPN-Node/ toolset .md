@@ -115,8 +115,11 @@
  * https://giters.com/fdmove/Free-Proxies#%E8%8A%82%E7%82%B9%E7%88%AC%E8%99%AB%E9%A1%B9%E7%9B%AE%E4%BB%A3%E7%90%86%E6%B1%A0
 
    ![image](https://github.com/user-attachments/assets/e4f2199b-0dd3-4c17-9469-e199d2973dab)
-   
-   
+
+ * 规则： https://github.com/limbopro/Profiles4limbo 
+
+   ![image](https://github.com/user-attachments/assets/311c6d9a-dee7-4c73-94bf-507b8ddf3b10)
+
 
 ## Cloud - sever  （Easy access）：
 
