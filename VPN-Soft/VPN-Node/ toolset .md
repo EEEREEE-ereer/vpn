@@ -160,8 +160,5 @@
 
    ![image](https://github.com/user-attachments/assets/e6eda96c-c1c7-4aea-9e96-4188a75d57e4)
 
-* https://kxsw.io/category/5stars-airports/
-
-  ![image](https://github.com/user-attachments/assets/c131c25f-f158-42b3-8ebb-e332acf9dc45)
 
  
