@@ -19,3 +19,15 @@
 *  ### selierlin ： https://github.com/selierlin/Share-SSR-V2ray/blob/master/tools.md
    
      >![image](https://github.com/user-attachments/assets/84af50f2-e571-4dd4-86ae-0e372e395b6a)
+
+
+*  ### 各平台v2ray:  https://guyigenius.wordpress.com/2020/05/05/v2ray-client-recommendation-for-each-platform/
+
+     ![image](https://github.com/user-attachments/assets/45eb4e7d-8d27-4620-b856-4103fa97db57)
+
+
+
+
+
+
+
