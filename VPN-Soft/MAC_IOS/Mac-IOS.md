@@ -12,7 +12,9 @@ https://github.com/yanue/V2rayU
 #
 #### Mac代理：
 https://xclient.info/s/t/%E4%BB%A3%E7%90%86/
-
+#
+#### Proxifier for Mac
+https://xie.infoq.cn/article/f1d0926023243f664aea74fbb
 
 ---
 
